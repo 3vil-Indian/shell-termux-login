@@ -1,4 +1,4 @@
-GNU nano 5.2                                    t.sh
+GNU nano 5.
 echo   "        ,--,                                                  "| lolcat
 echo   "      ,--.'|                           ,-.                    "| lolcat                     echo   "   ,--,  | :                       ,--/ /|                    "| lolcat
 echo   ",---.'|  : '                     ,--. :/ |             __  ,-."| lolcat                     echo   "|   | : _' |                     :  : ' /            ,' ,'/ /|"| lolcat
