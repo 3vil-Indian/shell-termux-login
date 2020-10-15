@@ -1,4 +1,5 @@
 GNU nano 5.
+echo   "   ,--,  | :                       ,--/ /|                    "
 echo   "        ,--,                                                  "| lolcat
 echo   "      ,--.'|                           ,-.                    "| lolcat                     echo   "   ,--,  | :                       ,--/ /|                    "| lolcat
 echo   ",---.'|  : '                     ,--. :/ |             __  ,-."| lolcat                     echo   "|   | : _' |                     :  : ' /            ,' ,'/ /|"| lolcat
