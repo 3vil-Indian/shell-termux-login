@@ -1,4 +1,9 @@
 clear
+echo "" |lolcat
+
+
+
+
 echo "-----------------------------------------------------"
 echo "          TERMUX LOGIN BY Punit.        "
 echo "It will take some time to install please be patience"
@@ -12,4 +17,4 @@ apt-get install -y espeak
 gem install lolcat
 echo ""
 echo -e "\e[1mExit termux to apply changes\e[0m"
-echo "" |lolcat
+
